@@ -1,16 +1,16 @@
 {
-  "version": "0.8.1",
+  "version": "0.8.2",
   "description": "Colorful, interactive companion to the docker CLI",
   "homepage": "https://github.com/spar/dpad",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/spar/dpad/releases/download/v0.8.1/dpad-windows-amd64.zip",
-      "hash": "5897142e5adc1477a27314f57b6c81d43e985ad83cd07eff985662fea7d673e8"
+      "url": "https://github.com/spar/dpad/releases/download/v0.8.2/dpad-windows-amd64.zip",
+      "hash": "d66079d541e67966d6f8701c2d0e2ee0a74afd2182c70aea41fb9ada66b85b09"
     },
     "arm64": {
-      "url": "https://github.com/spar/dpad/releases/download/v0.8.1/dpad-windows-arm64.zip",
-      "hash": "cf4d26438d78d5951103ecddb077e2292a086e2af251741bce4ae01bebee542d"
+      "url": "https://github.com/spar/dpad/releases/download/v0.8.2/dpad-windows-arm64.zip",
+      "hash": "7be48d19c50281767cdd8c51acc5db6dc228d009d00ff7d39cdc33ba9bb75202"
     }
   },
   "bin": [
