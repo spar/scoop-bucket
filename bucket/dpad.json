@@ -1,16 +1,16 @@
 {
-  "version": "0.18.1",
+  "version": "0.19.0",
   "description": "Stop juggling docker ps, stats and logs. One screen to rule them all",
   "homepage": "https://github.com/spar/dpad",
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/spar/dpad/releases/download/v0.18.1/dpad-windows-amd64.zip",
-      "hash": "248a72ee7846a172e93329cb38213f7d9a3f4969dcd518198db255442cd5cc34"
+      "url": "https://github.com/spar/dpad/releases/download/v0.19.0/dpad-windows-amd64.zip",
+      "hash": "bd72562c15010cce21d492fbf7c4241832a205f86a0ce4c18dbdcd87b2a0e56c"
     },
     "arm64": {
-      "url": "https://github.com/spar/dpad/releases/download/v0.18.1/dpad-windows-arm64.zip",
-      "hash": "89a4ac4036eed0aad407ff491e0a7a706c0774cd1c8567427673f501e27b6cb2"
+      "url": "https://github.com/spar/dpad/releases/download/v0.19.0/dpad-windows-arm64.zip",
+      "hash": "77092cb577f41b73bdfd63d6691d02859c29a91f08084b03f780cc6ee6bf4afc"
     }
   },
   "bin": [
